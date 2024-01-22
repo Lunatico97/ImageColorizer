@@ -7,7 +7,7 @@ How to Run ?
 - Change drive path in Jupyter Notebook for your dataset and storage of model !
 - Run every model generation and training notebook on Jupyter Notebook or any cloud platform like Google Colab or Kaggle !
 - Store the generated .h5 models in the 'models' directory for every type of dataset !
-- Run GUI using 'streamlit run app.py' on terminal ! (Requirements: pip3 install tensorflow streamlit)
+- Run GUI using 'streamlit run app.py' on terminal ! (Requirements: pip3 install tensorflow keras streamlit)
 - ![image](https://github.com/Lunatico97/ImageColorizer/assets/60886553/255fc60c-3169-4f8c-999d-3e848c87918e)
 
 1. Model Architecture (Image Colorizer) 
